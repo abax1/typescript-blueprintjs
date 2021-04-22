@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
         <Button intent={Intent.PRIMARY}>Button</Button>
-        <Button intent={Intent.DEFAULT}>Button</Button>
+        <Button intent={Intent.NONE}>Button</Button>
         <Spinner intent={Intent.PRIMARY}/>
       </header>
     </div>
